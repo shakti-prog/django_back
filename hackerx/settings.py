@@ -26,7 +26,7 @@ SECRET_KEY = 'wbiz6$nj-*7d03pm3&rbz1f#=4tn%qe$cjjjgui9-q1f5h6g-b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*','bajajdjango.herokuapp.com/']
+ALLOWED_HOSTS = ['*','bajajdjango.herokuapp.com']
 
 
 # Application definition
