@@ -1,0 +1,1 @@
+web: gunicorn hackerx.wsgi --log-file -
